@@ -1,6 +1,7 @@
 # ExpNo 1 :Developing AI Agent with PEAS Description 
-### Name: Shree Chandru R 
-### Register Number: 212224230264
+### Name: AVINASH T
+### Register Number: 212223230026
+
 ## AIM: 
 
 To find the PEAS description for the given AI problem and develop an AI agent. 
@@ -13,17 +14,29 @@ Such this agent prescribes medicine for fever (greater than 98.5 degrees) which 
 <img width="921" height="163" alt="image" src="https://github.com/user-attachments/assets/3eb8106b-8a77-4a84-91f4-c58552e45bbd" />
 
 
+
 ## DESIGN STEPS 
+
 STEP 1:
+
 Identifying the input: Temperature from patients, Location. 
+
 STEP 2:
+
 Identifying the output: Prescribe medicine if the patient in a random has a fever. 
+
 STEP 3:
+
 Developing the PEAS description: Rooms, Patient Medicine, Treatment Sensors Location, Temperature of patient PEAS description is developed by the performance, environment, actuators, and sensors in an agent. 
+
 STEP 4:
+
 Implementing the AI agent: Treat unhealthy patients in each room. And check for the unhealthy patients in random room 
+
 STEP 5: 
+
 Measure the performance parameters: For each treatment performance incremented, for each movement performance decremente
+
 
 ## Program :
 ```
