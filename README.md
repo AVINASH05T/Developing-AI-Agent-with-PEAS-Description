@@ -39,7 +39,7 @@ Measure the performance parameters: For each treatment performance incremented, 
 
 
 ## Program :
-```
+```c
 import random 
 class MedicineAgent:
   def __init__(self):        
